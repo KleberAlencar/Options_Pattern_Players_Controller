@@ -1,0 +1,6 @@
+@OptionsPattern_HostAddress = http://localhost:5154
+
+GET {{OptionsPattern_HostAddress}}/api/players/
+Accept: application/json
+
+###
