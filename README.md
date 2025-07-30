@@ -17,12 +17,12 @@ The PlayerController is an ASP.NET Core API controller that exposes endpoints to
 
 ![apiswagger.png](OptionsPattern/Documentation/apiswagger.png)
 
-## 3. Technologies
+## 3. Technologies:
 - **C#**: Main programming language.
 - **.NET 8**: Framework for building the API.
 - **Options Pattern**: For managing configuration settings in a structured way.
 
-## 4. How to execute API
+## 4. How to execute:
 
 To execute this project, follow these steps:
 
