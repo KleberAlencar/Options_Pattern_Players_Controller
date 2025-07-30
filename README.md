@@ -15,7 +15,7 @@ The PlayerController is an ASP.NET Core API controller that exposes endpoints to
 - GetPlayerSettingsMonitor: Returns the current PlayerSettings using IOptionsMonitor (singleton, supports live reload).
 - Each endpoint is mapped to a specific route defined in ApiEndpoint.Players and returns the configuration data as JSON. This controller is mainly for demonstrating and testing how configuration values can be accessed and refreshed in different ways within an ASP.NET Core application.
 
-![apiswagger.png](apiswagger.png)
+![apiswagger.png](OptionsPattern/Documentation/apiswagger.png)
 
 ## 3. Technologies
 - **C#**: Main programming language.
